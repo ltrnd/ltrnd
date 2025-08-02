@@ -1,17 +1,74 @@
-## Olá! Eu sou o Leandro 👋
+# Leandro Trindade
 
-<!--
-**ltrnd/ltrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Apaixonado por Tecnologia`**
 
-Here are some ideas to get you started:
+Me chamo Leandro Trindade, atualmente estou estudando Python | APIs | amante de Linux, trabalho como TI durante o expediente uso em uma grande maioria do tempo o Windows e fora do Expediente Opto por usar o Linux, prefiro uma boa distro baseada no Debian..
 
-- 🔭 Atualmente trabalho como TI 
-- 🌱 Estudando Python, Api  ...
-- 💬 Ask me about ...
-- 📫 Contate-me no E-mail : trndleandro@gmail.com
--->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltrnd/ltrnd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ltrnd/ltrnd/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ltrnd/ltrnd/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<img 
+    align="left" 
+    alt="Tasker" 
+    title="Tasker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+             
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+           
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<br/>
+
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ltrnd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltrnd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
