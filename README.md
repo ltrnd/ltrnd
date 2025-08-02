@@ -2,7 +2,7 @@
 
 **`Apaixonado por Tecnologia`**
 
-Me chamo Leandro Trindade, atualmente estou estudando Python | APIs | amante de Linux, trabalho como TI durante o expediente uso em uma grande maioria do tempo o Windows e fora do Expediente Opto por usar o Linux, prefiro uma boa distro baseada no Debian..
+Me chamo Leandro Trindade e atualmente estou estudando Python | API | amante de Linux, sou Assistente de TI e durante o expediente uso mais o Windows como OS e durante os momentos de lazer aprecio o Linux, atualmente uso o Ubuntu como Distro.
 
 
 
